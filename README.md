@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Aishwarya S<br><br>🎓 B.Sc. Computer Science Student<br><br>💻 Interested in Software Development & Cybersecurity<br><br>🐍 Python | ☕ Java | SQL<br><br>🛠️ Building projects to strengthen my technical and problem-solving skills<br><br>🚀 Always learning, exploring, and turning ideas into practical projects<br><br>📍 Chennai, India<br>
+👋 Hi, I'm Aishwarya S<br><br>🎓 B.Sc. Computer Science Student<br><br>💻 Interested in Software Development & Cybersecurity<br><br>🐍 Python | ☕ Java |  SQL<br><br>🛠️ Building projects to strengthen my technical and problem-solving skills<br><br>🚀 Always learning, exploring, and turning ideas into practical projects<br><br>📍 Chennai, India<br>
 
 
 ## 🌐 Socials:
